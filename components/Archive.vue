@@ -25,14 +25,14 @@
           </div>
           <div class="sm:text-lg font-medium">
             <button
-              class="flex-start bg-secondary text-primary h-9 rounded transition-all mb-2 group"
+              class="flex-start bg-secondary text-primary h-9 rounded transition-all mb-2 group w-full block"
             >
               <i class="fa-solid fa-circle-plus mr-2 text-black/40" />
               <span class="group-hover:underline">View Details</span>
             </button>
             <button
               @click.prevent="$router.push({ name: 'contact' })"
-              class="flex-start bg-primary text-white h-9 rounded border-2 border-primary hover:bg-white hover:text-primary transition-all"
+              class="flex-start bg-primary text-white h-9 rounded border-2 border-primary hover:bg-white hover:text-primary transition-all w-full block"
             >
               <i class="fa-solid fa-envelope mr-2" /> Get Quote
             </button>

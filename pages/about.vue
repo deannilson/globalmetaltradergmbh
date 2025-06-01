@@ -1,7 +1,7 @@
 <template>
   <div>
     <v-breadcrums title="About Us" />
-    <section class="py-20">
+    <section class="py-20 px-6">
       <div class="md:flex gap-20 container">
         <div class="flex-1">
           <h5 class="text-overline">Get to Know us</h5>
@@ -33,7 +33,7 @@
         />
       </div>
     </section>
-    <section class="py-20 bg-white">
+    <section class="py-20 bg-white px-6">
       <div class="md:flex md:flex-row-reverse gap-20 container">
         <div class="flex-1">
           <h5 class="text-overline">WHO WE ARE</h5>

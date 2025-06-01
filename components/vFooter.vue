@@ -25,8 +25,8 @@
               {{ $app.name }} is a limited liability company (GmbH) with its
               registered office in {{ $app.address.replaceAll('<br />',', ') }}.
               It is registered in the Commercial Register at the Local Court
-              (Amtsgericht) of Kiel under number {{ $app.reg }}. The Managing
-              Director is Mr. {{ $app.contact }}. Identification Number
+              (Amtsgericht) of Stuttgart under number {{ $app.reg }}. The
+              Managing Director is Mr. {{ $app.contact }}. Identification Number
               according to § 27a UStG: {{ $app.vat }}.
             </p>
           </div>

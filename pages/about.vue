@@ -17,7 +17,7 @@
             industry expertise enable us to provide competitive pricing and
             reliable service.
           </p>
-          <p class="opacity-65">
+          <p class="font-medium">
             At {{ $app.name }}, , we prioritize strong partnerships and customer
             satisfaction. Our team of professionals is dedicated to ensuring
             that every transaction is seamless, from sourcing materials to

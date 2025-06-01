@@ -1,7 +1,6 @@
 // https://nuxt.com/docs/api/configuration/nuxt-config
 import { $app } from "./utils";
 export default defineNuxtConfig({
-  ssr: true,
   app: {
     head: {
       charset: "utf-8",

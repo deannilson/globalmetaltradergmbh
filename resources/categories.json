@@ -1,0 +1,105 @@
+[
+  {
+    "name": "Aluminium Scrap",
+    "slug": "aluminium",
+    "image": "/aluminium-scrap.webp",
+    "desc": "High-quality aluminium scrap for sale—clean, durable, and ideal for recycling, manufacturing, and industrial applications. Competitive prices!",
+    "products": [
+      "Aluminium Ingot 99.97%",
+      "Aluminum UBC Scrap",
+      "Aluminum Wire Scrap",
+      "Aluminum Foil Scrap",
+      "Aluminum Alloy Wheel Scrap",
+      "Aluminium Extrusion 6063 Scrap",
+      "Aluminium Billet Scrap"
+    ]
+  },
+  {
+    "name": "Copper Scrap",
+    "slug": "copper",
+    "image": "/copper-scrap.webp",
+    "desc": "Premium copper scrap for sale—clean, durable, and perfect for recycling, manufacturing, and various industrial uses. Great rates!",
+    "products": [
+      "Copper Ingot 99.9%",
+      "Copper Wire Scrap 99.9%",
+      "Copper Cable Scrap 99.9%",
+      "Copper Cathode 99.99%",
+      "Copper Cathode Plates 99.9%"
+    ]
+  },
+  {
+    "name": "Lead Scrap",
+    "slug": "lead",
+    "image": "/lead-scrap.jpg",
+    "desc": "High-quality lead scrap for sale—reliable, durable, and ideal for recycling, manufacturing, and industrial applications. Competitive prices!",
+    "products": ["Lead Ingots 99.9%", "Lead Dry Battery Scrap"]
+  },
+  {
+    "name": "Zinc Scrap",
+    "slug": "zinc",
+    "image": "/zinc-scrap.jpg",
+    "desc": "High-quality zinc scrap for sale—clean, reliable, and ideal for recycling, manufacturing, and industrial applications at competitive prices.",
+    "products": [
+      "Pure Zinc Scrap",
+      "Zinc Ingot 99.9%",
+      "Zinc Alloy Ingot 99.9%"
+    ]
+  },
+  {
+    "name": "Tin Scrap",
+    "slug": "tin",
+    "image": "/tin-scrap.jpeg",
+    "desc": "Quality tin scrap for sale—clean, recyclable, and ideal for manufacturing, recycling, and industrial applications. Affordable pricing!",
+    "products": ["Pure Tin Metal Ingot 99.99%", "Tin Solder Scrap Dross 98%"]
+  },
+  {
+    "name": "Ferrous Metal Scrap",
+    "slug": "ferrous-metal",
+    "image": "/ferrous-scrap.jpg",
+    "desc": "High-quality ferrous metal scrap for sale—strong, recyclable, and perfect for construction, manufacturing, and industrial uses. Great prices!",
+    "products": [
+      "Iron Scrap",
+      "HMS 1 Scrap",
+      "HMS 2 Scrap",
+      "Used Rail Scrap (R50)",
+      "Used Rail Scrap (R65)"
+    ]
+  },
+  {
+    "name": "Plastic Scrap",
+    "slug": "plastic",
+    "image": "/plastic-scrap.png",
+    "desc": "Top-grade plastic scrap for sale—clean, recyclable, and suitable for manufacturing, recycling, and industrial applications. Competitive prices!",
+    "products": [
+      "PET Bottle Scrap",
+      "PVC Scrap",
+      "BOPP Film Scrap",
+      "PET Bottles Flakes",
+      "PET Film",
+      "HDPE Milk Bottle Scrap",
+      "Acrylic Scrap",
+      "PET Natural Regrind",
+      "PET Natural Bottle Scrap",
+      "Scrap Plastic",
+      "PE Scrap",
+      "PP Scrap",
+      "PS Scrap",
+      "PET Scrap",
+      "TPE Scrap"
+    ]
+  },
+  {
+    "name": "Other Scraps",
+    "slug": "others",
+    "image": "/others.jpeg",
+    "desc": "Buy other top grade scrap products for recycling, and other industrial applications. Competitive prices!",
+    "products": [
+      "Calcined Petroleum Coke",
+      "Manganese Metal Flake 99.8%",
+      "Bitumen 60/70 asphalt",
+      "Bitumen 80/100 asphalt",
+      "Used Batteries",
+      "Used Tyres"
+    ]
+  }
+]

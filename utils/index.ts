@@ -4,7 +4,7 @@ export const $app = {
   domain: "www.globalmetaltradergmbh.com",
   email: "sales@globalmetaltradergmbh.com",
   phone: "+49 4321 8890",
-  address: "Schönbühlstr.46  <br />70188 Stuttgart Germany",
+  address: "Schönbühlstr. 46  <br />70188 Stuttgart, Germany",
   hours: "Mon-Sat: 7:00am-6:00pm",
   vat: "DE 317082838",
   reg: "HRB 763998",

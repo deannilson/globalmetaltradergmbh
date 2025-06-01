@@ -22,18 +22,12 @@
           <h4 class="text-xl font-bold pb-6">Company</h4>
           <div class="pr-2 flex-col gap-2">
             <p class="mb-2">
-              {{ $app.name }} is a company dedicated to the supply and marketing
-              of scrap metals, steel and aluminum
-            </p>
-            <p class="mb-2">
-              <span class="opacity-50 font-bold">VAT No.:</span> {{ $app.vat }}
-            </p>
-            <p class="mb-2">
-              <span class="opacity-50 font-bold">Reg. No.:</span> {{ $app.reg }}
-            </p>
-            <p class="mb-2">
-              <span class="opacity-50 font-bold">ISO/TS:</span> 14001:2OO5;
-              9001:2008; 16949:2009
+              {{ $app.name }} is a limited liability company (GmbH) with its
+              registered office in {{ $app.address.replaceAll('<br />',', ') }}.
+              It is registered in the Commercial Register at the Local Court
+              (Amtsgericht) of Kiel under number {{ $app.reg }}. The Managing
+              Director is Mr. {{ $app.contact }}. Identification Number
+              according to § 27a UStG: {{ $app.vat }}.
             </p>
           </div>
         </section>

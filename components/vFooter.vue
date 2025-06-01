@@ -24,10 +24,10 @@
             <p class="mb-2">
               {{ $app.name }} is a limited liability company (GmbH) with its
               registered office in {{ $app.address.replaceAll('<br />',', ') }}.
-              It is registered in the Commercial Register at the Local Court
-              (Amtsgericht) of Stuttgart under number {{ $app.reg }}. The
-              Managing Director is Mr. {{ $app.contact }}. Identification Number
-              according to § 27a UStG: {{ $app.vat }}.
+              It is registered in the Commercial Register (Handelsregister) at
+              the Stuttgart Local Court (Amtsgericht Stuttgart) under number
+              {{ $app.reg }}. The Managing Director is Mr. {{ $app.contact }}.
+              Identification Number according to § 27a UStG: {{ $app.vat }}.
             </p>
           </div>
         </section>

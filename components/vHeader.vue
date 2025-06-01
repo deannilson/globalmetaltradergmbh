@@ -1,7 +1,7 @@
 <template>
   <header class="bg-white">
     <div class="max-md:hidden">
-      <section class="bg-primary text-white">
+      <section class="bg-primary text-white px-6">
         <div class="h-10 container flex-start text-sm gap-2">
           <div class="flex flex-1 divide-x divide-white/20 gap-6">
             <div class="flex-start">
@@ -23,7 +23,7 @@
           <i class="fa-brands fa-twitter icon-btn" />
         </div>
       </section>
-      <section class="px-8">
+      <section class="px-6">
         <div class="container h-24 flex-start">
           <nuxt-link to="/" class="py-4 cursor-pointer">
             <img src="/logo.jpg" width="160" />

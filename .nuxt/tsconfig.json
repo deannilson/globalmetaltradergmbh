@@ -5,6 +5,9 @@
       "nitropack/types": [
         "../node_modules/nitropack/types"
       ],
+      "nitropack/runtime": [
+        "../node_modules/nitropack/runtime"
+      ],
       "nitropack": [
         "../node_modules/nitropack"
       ],
@@ -40,6 +43,9 @@
       ],
       "nuxt": [
         "../node_modules/nuxt"
+      ],
+      "vite/client": [
+        "../node_modules/vite/client"
       ],
       "~": [
         ".."
@@ -80,12 +86,6 @@
       "public/*": [
         "../public/*"
       ],
-      "#build": [
-        "."
-      ],
-      "#build/*": [
-        "./*"
-      ],
       "#app": [
         "../node_modules/nuxt/dist/app"
       ],
@@ -98,14 +98,23 @@
       "#vue-router": [
         "../node_modules/vue-router"
       ],
+      "#unhead/composables": [
+        "../node_modules/nuxt/dist/head/runtime/composables/v3"
+      ],
       "#imports": [
         "./imports"
       ],
       "#app-manifest": [
-        "./manifest/meta/dev"
+        "./manifest/meta/dev.json"
       ],
       "#components": [
         "./components"
+      ],
+      "#build": [
+        "."
+      ],
+      "#build/*": [
+        "./*"
       ]
     },
     "esModuleInterop": true,
@@ -120,7 +129,7 @@
     "noUncheckedIndexedAccess": false,
     "forceConsistentCasingInFileNames": true,
     "noImplicitOverride": true,
-    "module": "ESNext",
+    "module": "preserve",
     "noEmit": true,
     "lib": [
       "ESNext",
@@ -137,9 +146,9 @@
     "allowSyntheticDefaultImports": true
   },
   "include": [
-    "./nuxt.d.ts",
-    "../.config/nuxt.*",
     "../**/*",
+    "../.config/nuxt.*",
+    "./nuxt.d.ts",
     "../node_modules/@nuxtjs/tailwindcss/runtime",
     "../node_modules/@nuxtjs/tailwindcss/dist/runtime",
     "../node_modules/@nuxt/devtools/runtime",
@@ -150,8 +159,12 @@
   ],
   "exclude": [
     "../dist",
+    "../.data",
     "../node_modules",
     "../node_modules/nuxt/node_modules",
+    "../node_modules/@nuxtjs/tailwindcss/node_modules",
+    "../node_modules/@nuxt/devtools/node_modules",
+    "../node_modules/@nuxt/telemetry/node_modules",
     "../node_modules/@nuxtjs/tailwindcss/runtime/server",
     "../node_modules/@nuxtjs/tailwindcss/dist/runtime/server",
     "../node_modules/@nuxt/devtools/runtime/server",

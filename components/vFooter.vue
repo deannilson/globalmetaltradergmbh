@@ -85,7 +85,8 @@ const links = {
     { title: "Contact us", path: "/contact" },
     { title: "Products", path: "/products" },
     { title: "Testimonials", path: "/#testimonials" },
-    { title: "Terms & Policy", path: "/terms" },
+    { title: "Privacy Policy", path: "/privacy-policy" },
+    { title: "Terms & Conditions", path: "/terms-and-conditions" },
   ],
   Products: [
     { title: "Aluminium Scrap", path: "/products/aluminium" },
@@ -94,6 +95,7 @@ const links = {
     { title: "Zinc Scrap", path: "/products/zinc" },
     { title: "Plastic Scrap", path: "/products/plastic" },
     { title: "Ferrous Products", path: "/products/ferrous-metal" },
+    { title: "Other Scraps", path: "/products/others" },
   ],
 };
 const sevices = [

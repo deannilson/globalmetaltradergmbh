@@ -5,14 +5,14 @@ export default defineNuxtConfig({
     head: {
       charset: "utf-8",
       viewport: "width=device-width, initial-scale=1, shrink-to-fit=no",
-      title: "Welcome",
+      title: "Connecting Scrap with Global Demand",
       titleTemplate: `%s - ${$app.name}`,
       meta: [
         { name: "theme-color", content: "#ffffff" },
         { name: "format-detection", content: "telephone=no" },
         {
           name: "description",
-          content: `${$app.name} is a company dedicated to the supply and marketing of scrap metals, steel and aluminum in Neumünster, Germany`,
+          content: $app.desc,
         },
         { name: "og:locale", content: "en_US" },
         { name: "og:type", content: "website" },
@@ -22,7 +22,7 @@ export default defineNuxtConfig({
         },
         {
           name: "og:description",
-          content: `${$app.name} is a company dedicated to the supply and marketing of scrap metals, steel and aluminum in Neumünster, Germany`,
+          content: $app.desc,
         },
         {
           name: "og:site_name",

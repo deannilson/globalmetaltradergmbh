@@ -97,18 +97,55 @@
   .overflow-break {
     overflow-wrap: break-word;
   }
+  ol {
+    list-style: decimal outside;
+    padding-left: 20px;
+    margin-bottom: 16px;
+  }
   ul {
     list-style: square outside;
     padding-left: 20px;
     margin-bottom: 16px;
   }
-  ul li {
+  ul li,
+  ol li {
     margin-bottom: 8px;
+  }
+  .v-html ul {
+    list-style: disc outside;
+    padding-left: 48px;
+    margin-bottom: 16px;
+  }
+  .v-html ol {
+    list-style: decimal outside;
+    padding-left: 48px;
+    margin-bottom: 16px;
+  }
+  .v-html ul ul,
+  .v-html ol ul {
+    list-style: circle outside;
+    padding-left: 32px;
+  }
+  .v-html ul ol,
+  .v-html ol ol {
+    padding-left: 32px;
   }
 }
 @layer components {
   h4 {
     @apply text-xl font-bold mb-2;
+  }
+  .v-html h4 {
+    @apply mb-3 mt-6 text-base sm:text-lg;
+  }
+  .v-html p {
+    @apply mb-3 max-sm:text-sm;
+  }
+  .v-html hr {
+    @apply border-zinc-300;
+  }
+  .v-html a {
+    @apply text-blue-800 font-bold hover:underline underline-offset-4 decoration-2;
   }
   .textfield {
     @apply h-16 border-2 border-zinc-200 p-4 rounded-lg placeholder:text-black hover:border-primary focus:border-primary mb-4 font-medium relative;

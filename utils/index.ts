@@ -12,24 +12,6 @@ export const $app = {
   contact: "Vijaypal Kishorilal",
   api: "https://xtremnet.vercel.app/mailer",
 };
-export function generateSlug(str: string) {
-  return str
-    .toLowerCase() // Convert to lowercase
-    .replace(/[^a-z0-9\s-]/g, " ") // Replace non-alphanumeric with space
-    .trim() // Remove leading/trailing spaces
-    .replace(/\s+/g, "-") // Replace spaces with hyphens
-    .replace(/-+/g, "-"); // Replace multiple hyphens with a single hyphen
-}
-export const $products = categories.flatMap(({ slug, products }) =>
-  products.map((name) => ({
-    slug: generateSlug(name),
-    name,
-    cat: slug,
-    image: "",
-    desc: "",
-    specs: "",
-  }))
-);
 
 export const $locales = Object.fromEntries(
   categories.map(({ slug, name }) => [slug, name])

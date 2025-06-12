@@ -24,7 +24,7 @@ import { readFile } from 'node:fs/promises';
 import consola, { consola as consola$1 } from 'file:///Users/funwiche/Projects/Sites/2025/WAZA/globalmetaltradergmbh.com/node_modules/consola/dist/index.mjs';
 import { ErrorParser } from 'file:///Users/funwiche/Projects/Sites/2025/WAZA/globalmetaltradergmbh.com/node_modules/youch-core/build/index.js';
 import { Youch } from 'file:///Users/funwiche/Projects/Sites/2025/WAZA/globalmetaltradergmbh.com/node_modules/youch/build/index.js';
-import { SourceMapConsumer } from 'file:///Users/funwiche/Projects/Sites/2025/WAZA/globalmetaltradergmbh.com/node_modules/nitropack/node_modules/source-map/source-map.js';
+import { SourceMapConsumer } from 'file:///Users/funwiche/Projects/Sites/2025/WAZA/globalmetaltradergmbh.com/node_modules/source-map/source-map.js';
 import { AsyncLocalStorage } from 'node:async_hooks';
 import { stringify, uneval } from 'file:///Users/funwiche/Projects/Sites/2025/WAZA/globalmetaltradergmbh.com/node_modules/devalue/index.js';
 import { captureRawStackTrace, parseRawStackTrace } from 'file:///Users/funwiche/Projects/Sites/2025/WAZA/globalmetaltradergmbh.com/node_modules/errx/dist/index.js';

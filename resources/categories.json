@@ -66,6 +66,21 @@
     ]
   },
   {
+    "name": "Copper Powder",
+    "slug": "copper-powder",
+    "image": "/plastic-scrap.png",
+    "desc": "High-quality copper powder for industrial, chemical, and metallurgical applications. Buy fine, ultra-pure copper powder for conductive coatings, 3D printing, pigments, and more",
+    "products": [
+      "Ultrafine copper powder (99.99999% purity)",
+      "Water-atomized copper powder (99.99% purity)",
+      "Standard Electrolytic Copper Powder (99.7%+ purity)",
+      "Electrolytic copper powder 99.999%",
+      "Electrolytic Copper Atomized Metal Powder",
+      "Gas atomized copper powder",
+      "Electrolytic Ultrafine Copper Powder"
+    ]
+  },
+  {
     "name": "Plastic Scrap",
     "slug": "plastic",
     "image": "/plastic-scrap.png",

@@ -358,5 +358,45 @@
     "image": "/images/used-tyre-scrap.jpg",
     "desc": "<p><strong>Used Tyre Scrap</strong>&nbsp;consists of discarded tires that are no longer fit for use on vehicles but still contain valuable materials that can be repurposed. These tires typically undergo a recycling process where they are shredded or cut into smaller pieces to make them easier to handle and repurpose.&nbsp;<strong>Used Tyre Scrap</strong>&nbsp;sourced from&nbsp;<strong>Germany</strong>&nbsp;is collected in compliance with local environmental regulations, ensuring that they are free from harmful substances before they enter the recycling chain. The scrap is processed into various forms, such as shredded rubber, crumb rubber, or other by-products that can be used in industrial applications.</p><p><br></p><h3><strong>Application:</strong></h3><p><strong>Used Tyre Scrap</strong>&nbsp;is widely used in several industries due to its material properties and versatility:</p><ol><li><strong>Recycling</strong>: Used as raw material for producing recycled rubber products, including mats, playground surfaces, and rubberized asphalt.</li><li><strong>Rubberized Asphalt</strong>: Ground-up tire rubber is used in road construction to enhance the durability and performance of asphalt.</li><li><strong>Energy Recovery</strong>: Used Tyre Scrap can be burned in controlled environments for energy recovery, providing heat for industrial processes or power generation.</li><li><strong>Manufacturing</strong>: The rubber material is used in the production of new rubber goods such as footwear, seals, and automotive parts.</li><li><strong>Landfill Alternatives</strong>: Processed tyres are sometimes used in land reclamation, embankment construction, or erosion control.</li><li><strong>Civil Engineering</strong>: Used for creating drainage systems, barriers, and soundproofing in construction projects.</li></ol>",
     "specs": "<p><strong>Product Name</strong>: Used Tyre Scrap</p><p><strong>Material Type</strong>: Used tires, typically from passenger vehicles, trucks, and industrial equipment</p><p><strong>Form</strong>: Whole tires, shredded tires, or crumb rubber (processed forms)</p><p><strong>Origin</strong>: Germany</p><p><strong>Rubber Composition</strong>: Typically natural rubber combined with synthetic rubber compounds</p><p><strong>Size</strong>: Whole tires or shredded into smaller pieces (size varies depending on customer requirements)</p><p><strong>Moisture Content</strong>: Generally low, less than 5%</p><p><strong>Packaging</strong>: Can be supplied in bulk or packaged depending on the type of processing and client requirements</p><p><strong>Impurities</strong>: Tires may contain residual metals, such as steel or brass wire from the tire beads, which are removed during processing</p><p><strong>Recyclability</strong>: 100% recyclable, with the rubber material being repurposed into various industrial products</p><p><strong>Storage and Handling</strong>: Should be stored in a cool, dry place away from direct sunlight to avoid degradation</p><p><strong>Environmental Compliance</strong>: Complies with Germany’s regulations for the safe disposal and recycling of used tires, ensuring responsible handling of waste material</p><p><strong>Certification</strong>: Adheres to EU regulations for waste management, including the European Union’s End-of-Life Vehicle (ELV) directive and other relevant waste and recycling standards</p>"
+  },
+  {
+    "slug": "ultrafine-copper-powder",
+    "name": "Ultra Fine Copper Powder (99.99999% Purity)",
+    "cat": "copper-powder",
+    "image": "/images/ultrafine-copper-powder.jpg",
+    "desc": "<p>Ultrafine copper powder with exceptional 99.99999% purity, ideal for high-tech applications requiring superior conductivity and fine particle distribution. This premium-grade powder is perfect for electronics, conductive inks, and advanced material science research.</p><p><br></p><p><strong>Application:</strong></p><ul><li>Conductive inks and pastes for printed electronics</li><li>High-performance coatings and EMI shielding</li><li>Additive manufacturing (3D printing)</li><li>Nanotechnology and advanced material research</li><li>Catalysts and chemical processes</li></ul>",
+    "specs": "<p><strong>Material:</strong>&nbsp;Ultrafine Copper Powder</p><p><strong>Purity:</strong>&nbsp;99.99999% (7N)</p><p><strong>Particle Size:</strong>&nbsp;0.1 - 10 microns</p><p><strong>Form:</strong>&nbsp;Free-flowing powder</p><p><strong>Density:</strong>&nbsp;~8.94 g/cm³</p><p><strong>Packaging:</strong>&nbsp;Sealed containers (1kg, 5kg, 25kg)</p>"
+  },
+  {
+    "slug": "water-atomized-copper-powder",
+    "name": "Water-Atomized Copper Powder (99.99% Purity)",
+    "cat": "copper-powder",
+    "image": "/images/water-atomized-copper-powder.jpg",
+    "desc": "<p>High-purity (99.99%) water-atomized copper powder with excellent flowability and uniform particle distribution. Suitable for industrial applications requiring cost-effective yet high-quality copper powder.</p><p><br></p><p><strong>Application:</strong></p><ul><li>Powder metallurgy (sintered components)</li><li>Brazing and welding alloys</li><li>Thermal spray coatings</li><li>Friction materials and lubricants</li><li>Chemical and catalyst production</li></ul>",
+    "specs": "<p><strong>Material:</strong>&nbsp;Water-Atomized Copper Powder</p><p><strong>Purity:</strong>&nbsp;99.99% (4N)</p><p><strong>Particle Size:</strong>&nbsp;10 - 100 microns</p><p><strong>Apparent Density:</strong>&nbsp;2.5 - 3.5 g/cm³</p><p><strong>Oxide Content:</strong>&nbsp;<0.1%</p><p><strong>Packaging:</strong>&nbsp;25kg drums or custom bulk bags</p>"
+  },
+  {
+    "slug": "standard-electrolytic-copper-powder",
+    "name": "Standard Electrolytic Copper Powder (99.7%+ Purity)",
+    "cat": "copper-powder",
+    "image": "/images/standard-electrolytic-copper-powder.jpg",
+    "desc": "<p>Cost-effective electrolytic copper powder with 99.7%+ purity, widely used in general industrial applications. Offers good conductivity and moderate particle size for versatile use.</p><p><br></p><p><strong>Application:</strong></p><ul><li>Anti-corrosion coatings</li><li>Low-cost conductive fillers</li><li>Pyrotechnics and fireworks</li><li>Basic metallurgical processes</li><li>Foundry and casting applications</li></ul>",
+    "specs": "<p><strong>Material:</strong>&nbsp;Electrolytic Copper Powder</p><p><strong>Purity:</strong>&nbsp;99.7% min</p><p><strong>Particle Size:</strong>&nbsp;20 - 150 microns</p><p><strong>Moisture Content:</strong>&nbsp;<0.2%</p><p><strong>Packaging:</strong>&nbsp;50lb bags or bulk totes</p>"
+  },
+  {
+    "slug": "electrolytic-copper-powder",
+    "name": "Electrolytic Copper Powder (99.999% Purity)",
+    "cat": "copper-powder",
+    "image": "/images/electrolytic-copper-powder.jpg",
+    "desc": "<p>Ultra-high-purity (99.999%) electrolytic copper powder, designed for precision applications where maximum conductivity and minimal impurities are critical.</p><p><br></p><p><strong>Application:</strong></p><ul><li>Semiconductor and microelectronics</li><li>High-frequency RF shielding</li><li>Superconductors and advanced alloys</li><li>Medical and aerospace components</li><li>Research-grade material studies</li></ul>",
+    "specs": "<p><strong>Material:</strong>&nbsp;Electrolytic Copper Powder</p><p><strong>Purity:</strong>&nbsp;99.999% (5N)</p><p><strong>Particle Size:</strong>&nbsp;5 - 50 microns</p><p><strong>Surface Area:</strong>&nbsp;0.5 - 1.5 m²/g</p><p><strong>Packaging:</strong>&nbsp;Vacuum-sealed bags (1kg, 5kg)</p>"
+  },
+  {
+    "slug": "gas-atomized-copper-powder",
+    "name": "Gas-Atomized Copper Powder",
+    "cat": "copper-powder",
+    "image": "/images/gas-atomized-copper-powder.jpg",
+    "desc": "<p>Spherical gas-atomized copper powder with high purity and excellent flow properties, ideal for additive manufacturing and precision engineering.</p><p><br></p><p><strong>Application:</strong></p><ul><li>Metal 3D printing (SLM, EBM, Binder Jetting)</li><li>Metal injection molding (MIM)</li><li>High-density powder metallurgy parts</li><li>Thermal and electrical conductive composites</li><li>Soldering and brazing pastes</li></ul>",
+    "specs": "<p><strong>Material:</strong>&nbsp;Gas-Atomized Copper Powder</p><p><strong>Purity:</strong>&nbsp;99.9% min</p><p><strong>Particle Shape:</strong>&nbsp;Spherical</p><p><strong>Particle Size:</strong>&nbsp;15 - 45 microns (customizable)</p><p><strong>Oxygen Content:</strong>&nbsp;<500 ppm</p><p><strong>Packaging:</strong>&nbsp;Argon-protected containers</p>"
   }
 ]
